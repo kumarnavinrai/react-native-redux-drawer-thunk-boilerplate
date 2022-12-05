@@ -1,11 +1,6 @@
 React Native Boilerplate - react-native-redux-drawer-thunk-boilerplate
 ===========================================
 
-[![React Native](https://img.shields.io/badge/React%20Native-v0.61.5-blue.svg)](https://facebook.github.io/react-native/)
-[![Redux](https://img.shields.io/badge/Redux-v4.0.4-blue.svg)](https://redux.js.org/)
-[![React Navigation V3](https://img.shields.io/badge/React%20Navigation-v4.0.10-blue.svg)](https://reactnavigation.org/)
-[![Redux Persist](https://img.shields.io/badge/Redux%20Persist-v5.10.0-blue.svg)](https://github.com/rt2zz/redux-persist)
-
 React Native Boilerplate is a starting point for React Native application. This project is configured with redux, redux thunk 
 and redux persist. Latest version of react-navigation (v4.0.10).
 
